@@ -1,1 +1,1 @@
-# Tutorial na framework Nette na projektu To do list
+# Tutoriál na framework Nette na projektu To do list
