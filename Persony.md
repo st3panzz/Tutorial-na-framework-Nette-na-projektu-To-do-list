@@ -1,4 +1,4 @@
-|       | Daniel | Jana |
+|   Jméno    | Daniel | Jana |
 | :---: | :---   | :--- |
 |  Věk  |   29   |  24  |
 | Povolání |  |  |
