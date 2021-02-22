@@ -1,6 +1,6 @@
 |       | Daniel | Jana |
 | :---: | :---   | :--- |
-| Věk | 29 | 24 |
+| Věk   | 29 | 24 |
 | Povolání |  |  |
 | Předchozí zkušenosti |  |  |
 | Zkušenosti s výpočetní technikou |  |  |
