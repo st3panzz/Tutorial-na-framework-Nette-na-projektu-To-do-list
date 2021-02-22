@@ -4,4 +4,4 @@
 |  Povolání  | 	Programátor | studentka IT na vysoké škole |
 | Předchozí zkušenosti s frameworkem Nette | Žádné, ale slyšel o něm a ví, co má přibližně očekávat. | Žádné |
 | Zkušenosti s výpočetní technikou | IT nadšenec | S mobilním telefonem a počítačem pracuje běžně a má v tom už nějakou praxi, ale pořád se učí novým věcem. |
-| Proč se chtít naučit s frameworkem Nette? | Je to něco nového. Chce se s tím nuačit a používat to. | Čistě ze zvědavosti. |
+| Proč se chtít naučit s frameworkem Nette? | Je to něco nového. Chce se s tím naučit a používat to. | Čistě ze zvědavosti chce vyzkoušet něco nového a ne až tak známého. |
