@@ -1,6 +1,6 @@
 |    Jméno   | Daniel | Jana |
 |    :---:   | :---   | :--- |
-|     Věk    |   30   |  24  |
+|     Věk    |   30   |  23  |
 |  Povolání  | 	Programátor | studentka IT na vysoké škole |
 | Předchozí zkušenosti s frameworkem Nette | Žádné, ale slyšel o něm a ví, co má přibližně očekávat. | Žádné |
 | Zkušenosti s výpočetní technikou | IT nadšenec, má hodně zkušeností s různými frameworky | S IT technikou pracuje běžně a má v tom už nějakou praxi, ale pořád se učí novým věcem. Má zkušenosti s několika nejznámějšími frameworky. |
