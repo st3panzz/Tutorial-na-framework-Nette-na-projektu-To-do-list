@@ -7,7 +7,7 @@
 - vyhledávací pole
 - editace úkolů, smazání a odškrtnutí za splněné
 - kolik to zobrazuje záznamů a překlikávíní na další část tabulky úkolů
-![Wireframe 1]()
+![Wireframe 1](Wireframe-1.PNG)
 # Stránka na úpravu úkolu
 - editace daného úkolu
 - upravení data
