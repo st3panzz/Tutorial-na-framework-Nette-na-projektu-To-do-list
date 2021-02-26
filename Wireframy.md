@@ -12,4 +12,4 @@
 - editace daného úkolu
 - upravení data
 - tlačítko uložení a tlačítko zpět, které nás přesměřuje na hlavní stránku
-![Wireframe 2]()
+![Wireframe 2](Wireframe-2.PNG)
